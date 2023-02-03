@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9dfc4a8-ad73-4d52-b862-2af75f8b981d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CallableStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteQuery02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteUpdate01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PreparedStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CountriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MedunaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Execute01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Execute01.java" afterDir="false" />
@@ -45,7 +53,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Execute01">
+  <component name="RunManager" selected="Application.CallableStatement01">
+    <configuration name="CallableStatement01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CallableStatement01" />
+      <module name="JDBCProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Execute01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Execute01" />
       <module name="JDBCProject" />
@@ -60,10 +75,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExecuteQuery02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecuteQuery02" />
+      <module name="JDBCProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecuteUpdate01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecuteUpdate01" />
+      <module name="JDBCProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CallableStatement01" />
         <item itemvalue="Application.Execute01" />
         <item itemvalue="Application.ExecuteQuery01" />
+        <item itemvalue="Application.ExecuteQuery02" />
+        <item itemvalue="Application.ExecuteUpdate01" />
       </list>
     </recent_temporary>
   </component>
